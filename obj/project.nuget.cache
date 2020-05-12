@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+X0psZuauKpu59RClSkobTIQjoWKdXhhRZHnemiIj0jD8WAF8h5CTAhWJDnUu9vKrhWdX6plPZIA+xefM8/3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dzmitry\\source\\repos\\test_automation\\test_automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\selenium.firefox.webdriver\\0.26.0\\selenium.firefox.webdriver.0.26.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\selenium.webdriver.chromedriver\\81.0.4044.6900\\selenium.webdriver.chromedriver.81.0.4044.6900.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\selenium.webdriver.iedriver\\3.150.1\\selenium.webdriver.iedriver.3.150.1.nupkg.sha512",
+    "C:\\Users\\Dzmitry\\.nuget\\packages\\selenium.webdriver.microsoftwebdriver\\10.0.17134\\selenium.webdriver.microsoftwebdriver.10.0.17134.nupkg.sha512"
+  ],
+  "logs": []
+}
