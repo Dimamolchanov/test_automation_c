@@ -20,7 +20,7 @@ namespace test_automation.Tests
     [TestCaseSource("asas")]
         public void OpenOnlinerHomePageAndClickCars(string someString)
         {
-            steps.OpenHomePageAndClickCarsOpenHomePage();
+            steps.OpenHomePageAndClickCars();
         }
     }
 }
