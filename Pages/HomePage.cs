@@ -13,12 +13,27 @@ namespace test_automation.Pages
         [FindsBy(How = How.XPath, Using = "//a[contains(@href, 'lada')]")]
         private IWebElement ladaLink;
 
+        [FindsBy(How = How.XPath, Using = "//div[contains(@class, 'tiles')]//a[contains(@href, 'cars')]")]
+        private IWebElement carsIcon;
+
         public void ClickLadaLink()
         {
             if (ladaLink.Displayed)
             {
                 ladaLink.Click();
                 Thread.Sleep(10000);
+            }
+            else
+            {
+                throw new ElementNotInteractableException("Fuck Lada");
+            }
+        }
+
+        public void ClickCarsIcon()
+        {
+            if (carsIcon.Displayed)
+            {
+                carsIcon.Click();
             }
             else
             {
