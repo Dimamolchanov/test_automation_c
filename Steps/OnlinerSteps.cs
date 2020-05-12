@@ -10,5 +10,12 @@ namespace test_automation.Steps
             homePage.OpenPage();
             homePage.ClickLadaLink();
         }
+
+        public void OpenHomePageAndClickCars()
+        {
+            HomePage homePage = new HomePage();
+            homePage.OpenPage();
+            homePage.ClickCarsIcon();
+        }
     }
 }

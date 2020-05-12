@@ -15,5 +15,12 @@ namespace test_automation.Tests
             steps.OpenHomePage();
         }
 
+
+    [Test(Author = CommonConstants.DIMAS)]
+    [TestCaseSource("asas")]
+        public void OpenOnlinerHomePageAndClickCars(string someString)
+        {
+            steps.OpenHomePageAndClickCarsOpenHomePage();
+        }
     }
 }
