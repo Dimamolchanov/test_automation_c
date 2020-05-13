@@ -9,16 +9,16 @@ namespace test_automation.Tests
         OnlinerSteps steps = new OnlinerSteps();
 
     [Test(Author = CommonConstants.DIMAS)]
-    [TestCaseSource("asas")]
-    public void OpenOnlinerHomePage(string someString)
+    //[TestCaseSource("asas")]
+    public void OpenOnlinerHomePage()
         {
             steps.OpenHomePage();
         }
 
 
     [Test(Author = CommonConstants.DIMAS)]
-    [TestCaseSource("asas")]
-        public void OpenOnlinerHomePageAndClickCars(string someString)
+    //[TestCaseSource("asas")]
+        public void OpenOnlinerHomePageAndClickCars()
         {
             steps.OpenHomePageAndClickCars();
         }
