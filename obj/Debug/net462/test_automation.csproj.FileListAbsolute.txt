@@ -5,9 +5,10 @@ C:\Users\Dzmitry\source\repos\test_automation\bin\Debug\net462\Newtonsoft.Json.d
 C:\Users\Dzmitry\source\repos\test_automation\bin\Debug\net462\nunit.framework.dll
 C:\Users\Dzmitry\source\repos\test_automation\bin\Debug\net462\WebDriver.Support.dll
 C:\Users\Dzmitry\source\repos\test_automation\bin\Debug\net462\WebDriver.dll
-C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.csprojAssemblyReference.cache
+C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.csproj.CoreCompileInputs.cache
 C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.AssemblyInfoInputs.cache
 C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.AssemblyInfo.cs
 C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.csproj.CopyComplete
 C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.dll
 C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.pdb
+C:\Users\Dzmitry\source\repos\test_automation\obj\Debug\net462\test_automation.csprojAssemblyReference.cache

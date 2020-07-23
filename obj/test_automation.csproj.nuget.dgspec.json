@@ -56,18 +56,18 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[81.0.4044.6900, )"
+              "version": "[83.0.4103.3910, )"
             },
             "Selenium.WebDriver.IEDriver": {
               "target": "Package",
-              "version": "[3.150.1, )"
+              "version": "[3.150.1.1, )"
             },
             "Selenium.WebDriver.MicrosoftWebDriver": {
               "target": "Package",
               "version": "[10.0.17134, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,6 +3,7 @@ using test_automation.Utils;
 using System.Threading;
 using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Remote;
 
 namespace test_automation.Pages
 {
@@ -15,6 +16,13 @@ namespace test_automation.Pages
 
         [FindsBy(How = How.XPath, Using = "//div[contains(@class, 'tiles')]//a[contains(@href, 'cars')]")]
         private IWebElement carsIcon;
+
+        public void CheckURL(string url)
+        {
+            DriverManager.GetWebDriverInstance().Url = url;
+            Thread.Sleep(10000);
+
+        }
 
         public void ClickLadaLink()
         {

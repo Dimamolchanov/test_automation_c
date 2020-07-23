@@ -10,8 +10,8 @@
     <PackageReference Include="NUnit" Version="3.12.0" />
     <PackageReference Include="Selenium.WebDriver.MicrosoftWebDriver" Version="10.0.17134" />
     <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.26.0" />
-    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="81.0.4044.6900" />
-    <PackageReference Include="Selenium.WebDriver.IEDriver" Version="3.150.1" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="83.0.4103.3910" />
+    <PackageReference Include="Selenium.WebDriver.IEDriver" Version="3.150.1.1" />
     <PackageReference Include="Selenium.Support" Version="3.141.0" />
     
   </ItemGroup>

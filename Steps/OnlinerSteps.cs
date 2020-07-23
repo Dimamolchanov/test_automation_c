@@ -15,7 +15,13 @@ namespace test_automation.Steps
         {
             HomePage homePage = new HomePage();
             homePage.OpenPage();
-            homePage.ClickCarsIcon();
+            homePage.ClickLadaLink();
+        }
+
+        public void checkUrl() {
+            HomePage hp = new HomePage();
+            hp.CheckURL("https://metanit.com/sharp/tutorial/3.1.php");
+
         }
     }
 }
